@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Sixtyfour+Convergence&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+p {
+    font-family: "Pacifico", cursive;
+}
+.col {
+    border-width: 10px;
+}
