@@ -2,7 +2,7 @@
 
 ## DIGIMON API LINK : https://digimon-api.vercel.app/api/digimon
 
-## Vercel Deployment Link :
+## Vercel Deployment Link : https://js-day-20-task-fetching-digimon-api.vercel.app/
 
 ## FILES :
 * INDEX.HTML 
